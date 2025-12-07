@@ -5,6 +5,10 @@ A modern AI application that summarizes **very long documents** using state-of-t
 It supports **LED (Longformer Encoder–Decoder)** for abstractive summarization and **BERT/SBERT** for extractive summarization — all inside a fast, elegant **Streamlit web interface**.
 
 This project is built by **Nhowmitha Suresh**, 3rd-year AI & Data Science student passionate about NLP, deep learning models, and real-world AI applications.
+<img width="1919" height="1070" alt="Screenshot 2025-12-07 111804" src="https://github.com/user-attachments/assets/957aaead-5012-483a-b34e-0c00d28d822c" />
+
+<img width="1918" height="1079" alt="Screenshot 2025-12-07 111817" src="https://github.com/user-attachments/assets/51d4e7de-27c4-4f3b-89b4-45de5e4cc6c0" />
+
 
 ---
 
